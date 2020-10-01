@@ -1,0 +1,17 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="CleanUp">
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
+      <action id="AutoIndentLines" />
+      <action id="ReformatCode" />
+      <action id="RearrangeCode" />
+    </macro>
+    <macro name="Kill-Clear-Run">
+      <action id="com.developerphil.adbidea.action.KillAction" />
+      <action id="com.developerphil.adbidea.action.ClearDataAction" />
+      <action id="Run" />
+      <action id="Run" />
+    </macro>
+  </component>
+</application>
