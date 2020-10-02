@@ -2,38 +2,31 @@
   <template name="logd" value="if(BuildConfig.DEBUG){&#10;    android.util.Log.d(TAG, &quot;$METHOD_NAME$: $content$&quot;);    &#10;}&#10;" description="Log.d(TAG, String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="loge" value="if(BuildConfig.DEBUG){&#10;    android.util.Log.e(TAG, &quot;$METHOD_NAME$: $content$&quot;, $exception$);&#10;}" description="Log.e(TAG, String, Exception)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="exception" expression="" defaultValue="e" alwaysStopAt="false" />
-    <context />
   </template>
   <template name="logi" value="if(BuildConfig.DEBUG){&#10;    android.util.Log.i(TAG, &quot;$METHOD_NAME$: $content$&quot;);&#10;}" description="Log.i(TAG, String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="logw" value="if(BuildConfig.DEBUG){&#10;    android.util.Log.w(TAG, &quot;$METHOD_NAME$: $content$&quot;, $exception$);&#10;}" description="Log.w(TAG, String, Exception)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="exception" expression="" defaultValue="e" alwaysStopAt="false" />
-    <context />
   </template>
   <template name="wtf" value="if(BuildConfig.DEBUG){&#10;    android.util.Log.wtf(TAG, &quot;$METHOD_NAME$: $content$&quot;, $exception$);&#10;}" description="Log.wtf(TAG, String, Exception)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="exception" expression="" defaultValue="e" alwaysStopAt="false" />
-    <context />
   </template>
   <template name="logm" value="if(BuildConfig.DEBUG){&#10;    android.util.Log.d(TAG, $content$);&#10;}" description="Log method name and its arguments" toReformat="true" toShortenFQNames="true">
     <variable name="content" expression="groovyScript(&quot;def params = _2.collect {it + ' = [\&quot; + ' + it + ' + \&quot;]'}.join(', '); return '\&quot;' + _1 + '() called' + (params.empty  ? '' : ' with: ' + params) + '\&quot;'&quot;, methodName(), methodParameters())" defaultValue="" alwaysStopAt="false" />
-    <context />
   </template>
   <template name="logr" value="if(BuildConfig.DEBUG){&#10;    android.util.Log.d(TAG, &quot;$METHOD_NAME$() returned: &quot; +  $result$);&#10;}" description="Log result of this method" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="result" expression="variableOfType(methodReturnType())" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
