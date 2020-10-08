@@ -4,11 +4,14 @@
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_FAMILY" value="Fira Code" />
     <option name="FONT_SCALE" value="1.25" />
+    <option name="LINE_SPACING" value="1.4" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="question" pattern="\btodo\b.*" />
+    <pattern icon="question" pattern="\bfixme\b.*" />
   </component>
 </application>
