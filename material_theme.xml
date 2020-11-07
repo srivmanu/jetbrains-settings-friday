@@ -18,8 +18,8 @@
     <option name="useMaterialFont2" value="true" />
     <option name="indicatorStyle" value="Dot" />
     <option name="customSidebarHeight" value="22" />
-    <option name="treeFontSize" value="15" />
-    <option name="tabFontSize" value="17" />
+    <option name="treeFontSize" value="14" />
+    <option name="tabFontSize" value="14" />
     <option name="highlightThickness" value="1" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="ff9800" />
