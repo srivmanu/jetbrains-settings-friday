@@ -1,11 +1,11 @@
-<scheme name="_@user_Material Solarized Light" version="142" parent_scheme="Default">
+<scheme name="_@user_Solarized Light (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-11-06T20:39:55</property>
-    <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">4.1.0.19</property>
+    <property name="created">2021-03-10T13:53:17</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2020.3.3.0.0</property>
     <property name="modified">2021-03-10T13:59:29</property>
-    <property name="originalScheme">Material Solarized Light</property>
+    <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -33,6 +33,15 @@
     <option name="CARET_ROW_COLOR" value="eee8d5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
     <option name="DELETED_LINES_COLOR" value="d30102" />
+    <option name="DIAGRAM_ANNOTATION_EDGE" value="d33682" />
+    <option name="DIAGRAM_DEFAULT_EDGE" value="657b83" />
+    <option name="DIAGRAM_GENERALIZATION_EDGE" value="b58900" />
+    <option name="DIAGRAM_INNER_EDGE" value="859900" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="fdf6e3" />
+    <option name="DIAGRAM_NODE_HEADER" value="cac5b6" />
+    <option name="DIAGRAM_NOTE_BACKGROUND" value="fdf6e3" />
+    <option name="DIAGRAM_NOTE_BORDER" value="657b83" />
+    <option name="DIAGRAM_REALIZATION_EDGE" value="cb4b16" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="d7d1c1" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="c8c3b5" />
     <option name="DOCUMENTATION_COLOR" value="f4eddb" />
@@ -290,6 +299,7 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -998,6 +1008,9 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -1486,6 +1499,7 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -1629,6 +1643,12 @@
       <value>
         <option name="FOREGROUND" value="657b83" />
         <option name="BACKGROUND" value="bbd3e2" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOCALE.LINE_COMMENT">
@@ -1846,6 +1866,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MAKO.SUBSTITUTION" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="MAKO.TAG">
       <value />
     </option>
@@ -3268,6 +3289,11 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
+    <option name="REGEXP_MATCHED_GROUPS">
+      <value>
+        <option name="BACKGROUND" value="bec9db" />
+      </value>
+    </option>
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -3455,7 +3481,11 @@
       </value>
     </option>
     <option name="RUNTIME_ERROR">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="ERROR_STRIPE_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
     </option>
     <option name="Rainbow Parens Level 1 (outermost)">
       <value>
