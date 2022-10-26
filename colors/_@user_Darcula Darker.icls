@@ -3,7 +3,7 @@
     <property name="created">2022-10-26T17:23:51</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2022-10-26T17:45:26</property>
+    <property name="modified">2022-10-26T17:49:04</property>
     <property name="originalScheme">Darcula Darker</property>
   </metaInfo>
   <colors>
@@ -51,37 +51,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="333438" />
+        <option name="BACKGROUND" value="3b3d42" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="313736" />
+        <option name="BACKGROUND" value="394240" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="353735" />
+        <option name="BACKGROUND" value="3f423e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="383534" />
+        <option name="BACKGROUND" value="443f3c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="383232" />
+        <option name="BACKGROUND" value="443a3a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="382f31" />
+        <option name="BACKGROUND" value="443638" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="352324" />
+        <option name="BACKGROUND" value="3f2323" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">

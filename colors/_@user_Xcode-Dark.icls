@@ -3,7 +3,7 @@
     <property name="created">2022-10-26T17:23:51</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2022-10-26T17:45:27</property>
+    <property name="modified">2022-10-26T17:49:02</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
@@ -285,37 +285,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="383a42" />
+        <option name="BACKGROUND" value="41424c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="363c40" />
+        <option name="BACKGROUND" value="3e4749" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3b3d3f" />
+        <option name="BACKGROUND" value="454847" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="3d3b3e" />
+        <option name="BACKGROUND" value="494446" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="3d373c" />
+        <option name="BACKGROUND" value="493f43" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="3d353b" />
+        <option name="BACKGROUND" value="493b41" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3a282d" />
+        <option name="BACKGROUND" value="43272b" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
