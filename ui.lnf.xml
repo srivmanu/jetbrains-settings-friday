@@ -1,0 +1,6 @@
+<application>
+  <component name="UISettings">
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+  </component>
+</application>
