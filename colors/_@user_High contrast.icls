@@ -3,7 +3,7 @@
     <property name="created">2022-10-26T17:23:51</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2022-10-26T17:49:03</property>
+    <property name="modified">2022-10-26T17:45:26</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -558,37 +558,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="2e2f34" />
+        <option name="BACKGROUND" value="242528" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2b3331" />
+        <option name="BACKGROUND" value="222727" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="32342f" />
+        <option name="BACKGROUND" value="272825" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="36312e" />
+        <option name="BACKGROUND" value="292624" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="362b2c" />
+        <option name="BACKGROUND" value="292323" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="362729" />
+        <option name="BACKGROUND" value="292021" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="341718" />
+        <option name="BACKGROUND" value="281616" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

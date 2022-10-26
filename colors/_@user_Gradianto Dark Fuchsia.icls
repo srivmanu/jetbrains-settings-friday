@@ -3,7 +3,7 @@
     <property name="created">2022-10-26T17:23:51</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2022-10-26T17:49:03</property>
+    <property name="modified">2022-10-26T17:45:26</property>
     <property name="originalScheme">Gradianto Dark Fuchsia</property>
   </metaInfo>
   <colors>
@@ -305,37 +305,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="383142" />
+        <option name="BACKGROUND" value="2f2737" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="35363f" />
+        <option name="BACKGROUND" value="2d2a35" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3c363d" />
+        <option name="BACKGROUND" value="322b34" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="40333b" />
+        <option name="BACKGROUND" value="342933" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="402e39" />
+        <option name="BACKGROUND" value="342531" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="402a37" />
+        <option name="BACKGROUND" value="342330" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3c1923" />
+        <option name="BACKGROUND" value="321823" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
