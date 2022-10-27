@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\manusr\Desktop\Dev\fstp-commands-clear.bat" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Dev" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/manusr/Desktop/Dev" />
     </exec>
   </tool>
 </toolSet>
