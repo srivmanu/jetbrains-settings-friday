@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine checkAndRequestPermission" />
         <option value="package:mine MBtnSubmit" />
         <option value="package:mine 6268" />
         <option value="com.att.fstp" />
