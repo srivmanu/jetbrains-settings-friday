@@ -3,7 +3,7 @@
     <property name="created">2022-10-26T17:23:51</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2022-10-26T17:24:12</property>
+    <property name="modified">2022-12-16T17:08:45</property>
     <property name="originalScheme">Monokai Pro (Filter Machine)</property>
   </metaInfo>
   <colors>
@@ -1034,27 +1034,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="323b37" />
+        <option name="BACKGROUND" value="3f4851" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2b3b3a" />
+        <option name="BACKGROUND" value="3c4d4e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="323540" />
+        <option name="BACKGROUND" value="434d4c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="293a3f" />
+        <option name="BACKGROUND" value="474a4b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="474548" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="474146" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3a2d31" />
+        <option name="BACKGROUND" value="422c2f" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

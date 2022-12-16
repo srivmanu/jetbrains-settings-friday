@@ -3,7 +3,7 @@
     <property name="created">2022-10-26T17:23:51</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.3.1.16</property>
-    <property name="modified">2022-10-26T17:24:12</property>
+    <property name="modified">2022-12-16T17:08:45</property>
     <property name="originalScheme">Material dark-Theme</property>
   </metaInfo>
   <colors>
@@ -744,27 +744,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="262b27" />
+        <option name="BACKGROUND" value="343a43" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="1f2b2a" />
+        <option name="BACKGROUND" value="313e40" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="262531" />
+        <option name="BACKGROUND" value="383f3f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="1d2a30" />
+        <option name="BACKGROUND" value="3c3c3d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="3c373b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="3c3238" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="302025" />
+        <option name="BACKGROUND" value="392024" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
