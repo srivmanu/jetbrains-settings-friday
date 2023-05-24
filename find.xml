@@ -3,6 +3,7 @@
     <option name="customScope" value="Local JAVA" />
     <option name="defaultScopeName" value="Local JAVA" />
     <option name="SEARCH_SCOPE" value="Local JAVA" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
