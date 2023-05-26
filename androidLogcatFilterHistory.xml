@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine createUCIRequest" />
         <option value="package:mine " />
         <option value="package:mine getChargesSummaryList" />
         <option value="package:mine getTodaysCharges" />
-        <option value="package:mine" />
         <option value="package:mine 626800" />
         <option value="package:com.att " />
         <option value="package:com.att" />
