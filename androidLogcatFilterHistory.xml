@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="com.att." />
     <option name="nonFavorites">
       <list>
+        <option value="com.att." />
         <option value="package:mine " />
         <option value="package:com.att.fstp" />
         <option value="package:com.att.fstp " />
