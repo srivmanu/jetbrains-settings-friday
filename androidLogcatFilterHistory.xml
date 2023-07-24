@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.friday.nyc_schools_jpmc 6268" />
+    <option name="mostRecentlyUsed" value="com.friday.nyc_schools_jpmc" />
     <option name="nonFavorites">
       <list>
-        <option value="com.friday.nyc_schools_jpmc 6268" />
         <option value="com.friday.nyc_schools_jpmc" />
+        <option value="com.friday.nyc_schools_jpmc 6268" />
         <option value="com.friday.nyc_schools_jpmc " />
         <option value="package:com.att.fstp 6268" />
         <option value="package:com.att.fstp " />
