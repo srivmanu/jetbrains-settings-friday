@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.att.fstp" />
+    <option name="mostRecentlyUsed" value="package:com.att.*" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:com.att.*" />
         <option value="com.att.fstp" />
         <option value="com.att.ordermod" />
         <option value="com.att." />
-        <option value="package:mine " />
         <option value="package:com.att.fstp" />
         <option value="package:com.att.fstp " />
         <option value="package:com.att.fstp 6268" />
@@ -22,7 +23,6 @@
         <option value="package:com.att." />
         <option value="package:mine checkAndRequestPermission" />
         <option value="package:mine MBtnSubmit" />
-        <option value="package:mine 6268" />
       </list>
     </option>
   </component>
