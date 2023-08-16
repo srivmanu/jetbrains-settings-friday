@@ -4,10 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.att.ordermod" />
+        <option value="package:com.att.fstp" />
         <option value="package:com.att." />
         <option value="package:mine" />
         <option value="package:mine getMetadataConfig" />
-        <option value="package:com.att.fstp" />
         <option value="package:com.att.ordermoD" />
         <option value="package:com.att.ordermod  package:com.att.fstp " />
         <option value="package:com.att.ordermod || package:com.att.fstp " />
