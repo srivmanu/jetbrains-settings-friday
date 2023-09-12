@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.att 6268" />
+    <option name="mostRecentlyUsed" value="package:com.att " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.att 6268" />
         <option value="package:com.att " />
+        <option value="package:com.att 6268" />
         <option value="package:com.att." />
         <option value="package:mine" />
         <option value="package:com.att" />
